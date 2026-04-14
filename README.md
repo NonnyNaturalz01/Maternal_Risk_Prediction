@@ -7,9 +7,9 @@ The goal is to support maternal healthcare by identifying risk levels early and 
 ## Features
 - Logistic Regression with **L2 regularization** for stability against multicollinearity.
 - Preprocessing pipeline:
-  - Outlier detection (IQR)
-  - Feature scaling
-  - Multicollinearity checks (heatmap)
+  -Outlier detection (IQR)
+  -Feature scaling
+  -Multicollinearity checks (heatmap)
 - Evaluation metrics: **Precision, Recall, F1-score, Confusion Matrix**.
 - Addressed class imbalance with stratified sampling and class weights.
 
